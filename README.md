@@ -1,8 +1,8 @@
 # Breast-Cancer-Wisconsin-Diagnostic-
 EDA and comparison of the performance of different ML algorithms
 
-Here, we have used the Breast Cancer Wisconsin (Diagnostic) Dataset from the UC
-Irvine Machine Learning Repository [38]. The “Original” dataset, as created from 
+Here, the Breast Cancer Wisconsin (Diagnostic) Dataset from the UC
+Irvine Machine Learning Repository has been used. The “Original” dataset, as created from 
 the reports of Dr. William H. Wolberg (University of Wisconsin Hospitals, 
 Madison), contains instances of data added chronologically in groups, with 699 
 points as of 1992. This only contained 9 features of integer datatype. The 
